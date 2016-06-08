@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:05.581526
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:39
 #+TITLE: 相宗八要
 #+PROPERTY: CBETA_ID X55n0899
 #+PROPERTY: ID KR6n0143
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 
  
-No.899-A因明入正理論題辭¶
+* No.899-A因明入正理論題辭¶
 
 諸法本因曰正理。徹諸法本因曰正智。理由智顯。宗¶
 假因明。因智為能入。正理為所入。菩薩證真現量真¶
